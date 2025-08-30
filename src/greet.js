@@ -1,5 +1,5 @@
 function greet(name) {
-  return `Hello, ${name}! Agile DevOps.`;
+  return `Hello, ${name}! Welcome to Agile DevOps.`;
 }
 
 module.exports = { greet };
